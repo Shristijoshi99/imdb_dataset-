@@ -122,6 +122,4 @@ This project demonstrates how **data analysis and visualization** can be used to
 
 ---
 
-## 🙌 Author
 
-**Bani Thapliyal**
